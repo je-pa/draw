@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T02:52:18.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.87 Whale/3.16.138.22 Safari/537.36" etag="GZSYeuOGvAVEgCFP_aim" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-21T04:08:20.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.87 Whale/3.16.138.22 Safari/537.36" etag="G9AiZ8URhPrK4UM1x3AP" version="20.2.5" type="github">
   <diagram id="_BZ3kFJpqRjqWwF1kyh3" name="페이지-1">
-    <mxGraphModel dx="992" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="992" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="630" y="360" />
-              <mxPoint x="494" y="360" />
+              <mxPoint x="766" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -69,11 +69,11 @@
         <mxCell id="g1alMhvORCVJ9S5wz74o-22" value="END" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="460" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g1alMhvORCVJ9S5wz74o-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g1alMhvORCVJ9S5wz74o-24" target="g1alMhvORCVJ9S5wz74o-22">
+        <mxCell id="g1alMhvORCVJ9S5wz74o-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g1alMhvORCVJ9S5wz74o-24" target="g1alMhvORCVJ9S5wz74o-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g1alMhvORCVJ9S5wz74o-24" value="현재 년도의 역량 평가 항목 delete 후 &lt;br&gt;작년도의 역량평가 항목 insert" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="390" width="160" height="70" as="geometry" />
+          <mxGeometry x="686" y="384" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
