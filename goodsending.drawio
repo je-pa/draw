@@ -1,9 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2024-07-25T11:11:18.732Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.6.4" etag="MVFCXTgrp3xmnqv2ouFS" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-25T11:54:32.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="pJCxf409vWyS6HCK4B_F" version="24.6.4" type="github">
   <diagram name="페이지-1" id="bEqGOwVJRFGewAR_kM2I">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vEQ8ZvfSQb2kJUEr6bps-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vEQ8ZvfSQb2kJUEr6bps-1" target="vEQ8ZvfSQb2kJUEr6bps-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vEQ8ZvfSQb2kJUEr6bps-1" value="판매자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vEQ8ZvfSQb2kJUEr6bps-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vEQ8ZvfSQb2kJUEr6bps-2" target="vEQ8ZvfSQb2kJUEr6bps-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEQ8ZvfSQb2kJUEr6bps-2" value="구매&lt;span style=&quot;background-color: initial;&quot;&gt;자&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="370" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vEQ8ZvfSQb2kJUEr6bps-15" value="경매 상품 등록" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="175" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vEQ8ZvfSQb2kJUEr6bps-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vEQ8ZvfSQb2kJUEr6bps-18" target="vEQ8ZvfSQb2kJUEr6bps-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vEQ8ZvfSQb2kJUEr6bps-18" value="경매 상품 조회" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="365" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vEQ8ZvfSQb2kJUEr6bps-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="vEQ8ZvfSQb2kJUEr6bps-15" target="vEQ8ZvfSQb2kJUEr6bps-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="270" as="sourcePoint" />
+            <mxPoint x="490" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEQ8ZvfSQb2kJUEr6bps-21" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="vEQ8ZvfSQb2kJUEr6bps-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vEQ8ZvfSQb2kJUEr6bps-24" value="include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vEQ8ZvfSQb2kJUEr6bps-20">
+          <mxGeometry x="-0.0286" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEQ8ZvfSQb2kJUEr6bps-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vEQ8ZvfSQb2kJUEr6bps-25" target="vEQ8ZvfSQb2kJUEr6bps-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vEQ8ZvfSQb2kJUEr6bps-25" value="입찰신청" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="365" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vEQ8ZvfSQb2kJUEr6bps-45" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vEQ8ZvfSQb2kJUEr6bps-28" target="vEQ8ZvfSQb2kJUEr6bps-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vEQ8ZvfSQb2kJUEr6bps-28" value="입찰 이후&amp;nbsp;&lt;div&gt;5분동안 새로운 입찰자가&amp;nbsp;&lt;/div&gt;&lt;div&gt;있는가?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="350" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vEQ8ZvfSQb2kJUEr6bps-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="vEQ8ZvfSQb2kJUEr6bps-28" target="vEQ8ZvfSQb2kJUEr6bps-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="400" as="sourcePoint" />
+            <mxPoint x="780" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEQ8ZvfSQb2kJUEr6bps-41" value="No" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="vEQ8ZvfSQb2kJUEr6bps-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vEQ8ZvfSQb2kJUEr6bps-46" value="낙찰자 탄생" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="370" width="30" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
